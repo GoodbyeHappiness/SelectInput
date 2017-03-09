@@ -1,0 +1,35 @@
+#test,
+#testTwo {
+    margin: 10px 0;
+}
+.active {
+    background-color: #2e6da4!important;
+    color: white;
+}
+.label-select {
+    margin: 5px;
+    padding: 5px 10px!important;
+}
+.label-select:after {
+    content: 'x';
+    float: right;
+    color: white;
+    margin-left: 5px;
+}
+.hover-gray:hover {
+    background-color: #eeeeee;
+}
+.all-options .btn {
+    margin-top: 5px;
+}
+.si-li {
+    padding: 3px 10px;
+    cursor: pointer;
+}
+.si-all-btn {
+    height: 32px;
+    padding: 0 10px;
+}
+.si-error {
+    margin-top: 20px;
+}
